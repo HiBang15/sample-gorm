@@ -1,0 +1,7 @@
+vendor/
+.idea
+.iws
+.env
+assets/upload
+assets/temp
+frontend
